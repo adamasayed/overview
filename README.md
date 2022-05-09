@@ -3,7 +3,7 @@ Here are the overviews of some of the projects I have made
 
 ### AAFSG
 
-AAFSG is an online seed finder that looks for good seeds for All Advancements Speedruns. You can find the filter's website at https://aafsg.com
+AAFSG is an online seed finder that looks for good seeds for All Advancements Speedruns. You can find the filter's website at [https://aafsg.com](https://aafsg.com)
 
 The repository that powers the project can be found [here](https://github.com/andpenguin/AAFSG) 
 
