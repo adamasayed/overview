@@ -17,7 +17,6 @@ This is a tracker for All Advancements Coop Speedruns that you can install on yo
 The project can be found [here](https://github.com/andpenguin/AA-Coop-Tracker) 
 
 ![IMG_3780](https://user-images.githubusercontent.com/71165067/130373396-ba9b152d-a04c-40d7-acdf-219f5575b99d.jpeg)
-<img width="1436" alt="Screen Shot 2021-08-19 at 10 16 04 PM" src="https://user-images.githubusercontent.com/71165067/130183018-c9116a3a-f11c-460c-a0c2-281fbc64eeb8.png">
 
 
 ## MC Resetting Server
