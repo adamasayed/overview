@@ -1,6 +1,5 @@
-## Welcome to and_penguin's Github Overview
-
-Here are the links to some of the projects I have made
+##Projects
+Here are the overviews of some of the projects I have made
 
 ### AAFSG
 
@@ -19,13 +18,13 @@ The project can be found [here](https://github.com/andpenguin/AA-Coop-Tracker)
 ![IMG_3780](https://user-images.githubusercontent.com/71165067/130373396-ba9b152d-a04c-40d7-acdf-219f5575b99d.jpeg)
 
 
-## MC Resetting Server
+### MC Resetting Server
 
 Collaborations on a project to create code for a web server to create a server that can reset using in game /stop. This allows the player to reset much faster than having to go to the game files, stop the game, delete the world files, and relaunch. If interested in speedrunning using AWS or GCP servers, this is a good addition.
 
 The project can be found [here](https://github.com/andpenguin/MCSRS) 
 
-### Support or Contact Me
+## Support or Contact Me
 
 Making these projects for the community takes a lot of work, and any support is appreciated. If you want to make a donation, support me [here](https://www.paypal.com/donate/?hosted_button_id=YHS2HDH2G4K62) on PayPal.
 
