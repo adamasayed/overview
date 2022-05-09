@@ -1,4 +1,4 @@
-##Projects
+## Projects
 Here are the overviews of some of the projects I have made
 
 ### AAFSG
