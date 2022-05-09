@@ -6,7 +6,7 @@ Here are the links to some of the projects I have made
 
 AAFSG is an online seed finder that looks for good seeds for All Advancements Speedruns. You can find the filter's website at https://aafsg.com
 
-The repository that powers the project can be found here https://github.com/andpenguin/AAFSG
+The repository that powers the project can be found [here](https://github.com/andpenguin/AAFSG) 
 
 https://user-images.githubusercontent.com/71165067/155404781-acd0487b-11e0-4016-ac0a-a69ba895b0a3.png
 
@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/71165067/155404781-acd0487b-11e0-4016-
 
 This is a tracker for All Advancements Coop Speedruns that you can install on your server to track advancements.
 
-The project can be found here https://github.com/andpenguin/AA-Coop-Tracker
+The project can be found [here](https://github.com/andpenguin/AA-Coop-Tracker) 
 
 https://user-images.githubusercontent.com/71165067/130373396-ba9b152d-a04c-40d7-acdf-219f5575b99d.jpeg
 
@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/71165067/130373396-ba9b152d-a04c-40d7-
 
 Collaborations on a project to create code for a web server to create a server that can reset using in game /stop. This allows the player to reset much faster than having to go to the game files, stop the game, delete the world files, and relaunch. If interested in speedrunning using AWS or GCP servers, this is a good addition.
 
-https://github.com/andpenguin/MCSRS
+The project can be found [here](https://github.com/andpenguin/MCSRS) 
 
 ### Support or Contact Me
 
