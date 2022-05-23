@@ -9,6 +9,12 @@ The repository that powers the project can be found [here](https://github.com/an
 
 <img width="1440" alt="Screen Shot 2022-02-23 at 12 34 57 PM" src="https://user-images.githubusercontent.com/71165067/155404781-acd0487b-11e0-4016-ac0a-a69ba895b0a3.png">
 
+## Seedfinding Tutorial
+
+In-depth beginner friendly tutorial to learn how to start seedfinding yourself!
+
+https://www.youtube.com/watch?v=TFKxh8Rfjx8
+
 ### Item Finder
 
 A Tool that finds the closest of an item on a given minecraft seed. If you want to scout a seed, cope check, or just know where a given item is, check it out.
