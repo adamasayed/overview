@@ -1,9 +1,9 @@
 ## Projects
-Here are the overviews of some of the projects I have made
+Adam Sayed's Project Overview
 
 ### AAFSG
 
-AAFSG is an online seed finder that looks for good seeds for All Advancements Speedruns using code to predict Java random calls. The filter looks through millions of seeds to see how the world will generate, and predicts one that will be useful. You can find the filter's website at [aafsg.com](https://aafsg.com)
+AAFSG is an online seed finder that looks for good seeds for Minecraft All Advancements Speedruns using code to predict Java random calls. The filter looks through millions of seeds to see how the world will generate, and predicts one that will be useful. You can find the filter's website at [aafsg.com](https://aafsg.com)
 
 The repository that powers the project can be found [here](https://github.com/andpenguin/AAFSG) 
 
