@@ -1,6 +1,10 @@
 ## Projects
 Adam Sayed's Project Overview
 
+### Cancer Cell Classifier
+
+Uses ML techniques like Convolutional Layers and dropout to form one model, and then a random forest classifier to form another. 5 sets of 5,000 cancer cellimages are classified as easy or hard cases by the models, and then classified by the random forest if they are easier to identify and vice versa.
+
 ### AAFSG
 
 AAFSG is an online seed finder that looks for good seeds for Minecraft All Advancements Speedruns using code to predict Java random calls. The filter looks through millions of seeds to see how the world will generate, and predicts one that will be useful. You can find the filter's website at [aafsg.com](https://aafsg.com)
@@ -11,9 +15,9 @@ The repository that powers the project can be found [here](https://github.com/an
 
 ## Seedfinding Tutorial
 
-In-depth beginner friendly tutorial to learn how to start seedfinding yourself!
+In-depth beginner friendly [tutorial](https://www.youtube.com/watch?v=TFKxh8Rfjx8) to learn how to start seedfinding yourself!
 
-https://www.youtube.com/watch?v=TFKxh8Rfjx8
+
 
 ### Item Finder
 
