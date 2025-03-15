@@ -1,13 +1,17 @@
 ## Projects
 Adam Sayed's Project Overview
 
+### Full Stack Work
+
+I expanded a frontend webpage, using an AngularJS framework, and creating new API calls to a C# microservice backend. The microservice retrieved information from and modified a SQL database, sending data to the user, which simplified access to information and streamlined company workflow.
+
 ### Neural Network
 
 Formula-based backpropagation Neural Network made from scratch in Java with no external libraries. Fully customizable for any data training set and network specification. Tested on determining how many fingers a hand is holding up based on training images of the hand. The project repository can be found [here](https://github.com/adamasayed/NeuralNetwork)
 
 ### Cancer Cell Classifier
 
-Uses ML techniques like Convolutional Layers and dropout to form one model, and then a random forest classifier to form another. 5 sets of 5,000 cancer cellimages are classified as easy or hard cases by the models, and then classified by the random forest if they are easier to identify and vice versa.
+Uses ML techniques like Convolutional Layers and dropout to form one model, and then a random forest classifier to form another. 5 sets of 5,000 cancer cell images are classified as easy or hard cases by the models, and then classified by the random forest if they are easier to identify and vice versa.
 
 ### AAFSG
 
